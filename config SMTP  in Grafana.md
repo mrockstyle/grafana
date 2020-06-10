@@ -1,5 +1,5 @@
 # Setup SMTP TN in Grafana
-- ### Edit flie "grafana.ini"
+- ### Config flie "grafana.ini"
     ```
     vi /etc/grafana/grafana.ini
     ```
